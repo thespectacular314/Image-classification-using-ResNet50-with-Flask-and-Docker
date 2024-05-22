@@ -19,7 +19,7 @@ https://github.com/thespectacular314/Image-classification-using-ResNet50-with-Fl
 
 ## How to Run Locally
 
-1. Clone this repository using Git.
+1. Clone this repository using Git or GitHub Desktop.
 
 2. Open a terminal and navigate to the project directory.
 
