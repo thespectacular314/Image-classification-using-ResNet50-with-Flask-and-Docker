@@ -37,3 +37,6 @@ To import the pre-trained ResNet50 model in your Python code, use the following 
 
 ```python
 from keras.applications.resnet50 import ResNet50
+```
+* Docker Hub Link: https://hub.docker.com/repository/docker/barani200/img_classification_using_flask
+
