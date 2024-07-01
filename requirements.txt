@@ -4,4 +4,3 @@ tensorflow
 Keras
 Keras-Preprocessing
 pillow
-gunicorn

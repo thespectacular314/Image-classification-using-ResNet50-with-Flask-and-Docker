@@ -11,4 +11,4 @@ RUN python -m pip install --upgrade pip
 RUN pip install -r requirements.txt
 EXPOSE 5000
 # Run
-CMD ["python","model.py"]
+CMD ["python","app.py"]
